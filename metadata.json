@@ -1,0 +1,6 @@
+{
+  "name": "PaySaathi",
+  "description": "AI-powered digital payment safety companion for seniors, first-time UPI users, and families.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
